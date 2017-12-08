@@ -1,0 +1,16 @@
+1IAQ fullDB 22.7714614868
+1IAQ fullDB dihedral restricted 27.1385631561
+1IAQ fullDB dihedral all 50.6129493713
+1IAQ fullDB small 22.2003612518
+1IAQ fullDB shear 22.9190235138
+
+1IAQ oldDB 33.2482032776
+1IAQ oldDB dihedral restricted 34.2508926392
+1IAQ oldDB dihedral all 81.6962127686
+1IAQ oldDB small 33.0464477539
+1IAQ oldDB shear 33.2039108276
+
+# chi
+1IAQ fullDB dihedral all 46.4932174683
+1IAQ fullDB small 21.8641471863
+1IAQ fullDB shear 22.8828487396
